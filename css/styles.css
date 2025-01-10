@@ -131,3 +131,38 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
+
+
+
+.team-title {
+    text-transform: capitalize;
+}
+
+.button-title {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    
+}
+
+.button-title:hover, 
+.button-title:focus {
+    background-color: #404BBF;
+}
+
+
+.section-three {
+    background-color: #F4F4FD;
+}
+
+
+.team-list {
+    background-color: #FFFFFF;
+}
+
+.footer-last {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
