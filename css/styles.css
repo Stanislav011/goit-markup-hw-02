@@ -61,6 +61,14 @@ color: #434455;
     color: #404bbf;
 }
 
+
+.class:hover,
+.class:focus {
+    color: #404bbf;
+}
+
+
+
 .page-footer {
     background-color: #2e2f42;
 }
